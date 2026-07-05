@@ -2,6 +2,10 @@
 
 A modern calculator application built using **Kotlin** and **Jetpack Compose**.
 
+## Screenshot
+
+![Calculatorr Home](screenshots/home.png)
+
 ## Features
 
 - Basic arithmetic operations
